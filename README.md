@@ -1,6 +1,6 @@
  # Olá, meu nome é Juliana 💎
 
-🎓 Estudante de **desenvolvimento front-end** pelo instituto PROA criando interfaces acessiveis e úteis
+🎓 Estudante de **desenvolvimento front-end** pelo instituto PROA, criando interfaces acessiveis e úteis
 
 <hr>
 
